@@ -1,0 +1,8 @@
+{
+  "name": "dia-nexus-skills",
+  "description": "dia-nexus が作った Claude のスキル",
+  "owner": { "name": "dia-nexus" },
+  "plugins": [
+    { "name": "cross-boundary-foundations", "source": "./plugins/cross-boundary-foundations", "description": "FDE、UXエンジニア、PdMが、ビジネスとUXとエンジニアリングの間に立って、誰も決めていない決めごとを仮決めし、表や仕様にして渡すためのスキル。まず理想像から要求を立て、業務フロー、業務ルール、機能と画面、データ項目の順に要件まで降ろし、流れやルールを変えるところで立場（使う人、承認する人、チェックする人、その先の人）のぶつかりを出して決める人に渡す。扱うのは、KPIの式と計測、用語の対応、状態とステータス（DBや外部APIの値、画面のラベル、KPIの段階）、権限とロール、選択肢とコード値（SDKやAPIが返すエラー・結果コードを含む）、エラーとログ（結果不明の失敗、記録してはいけない情報…" }
+  ]
+}
